@@ -5,6 +5,7 @@ A responsive portfolio website customized for Dhruv Badaya and aligned with the 
 ## Profile
 - Name: Dhruv Badaya
 - GitHub: https://github.com/badayadhruv1230
+- View my Profile: https://v0.app/badayadhruv1230-6268/chat/uVozI6Pzw30
 - Education and specialization: confirm the exact institution and course details with Dhruv before final submission.
 
 ## Technologies
